@@ -1,7 +1,5 @@
-a = input("input number A: ")
-a = int(a)
-b = input("input number B: ")
-b = int(b)
+a = int(input("input number A: "))
+b = int(input("input number B: "))
 if a<b : 
     print("a<b")
 elif a>b :
