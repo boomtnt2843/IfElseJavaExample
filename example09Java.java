@@ -1,4 +1,4 @@
-public class example09Java {
+public class Example09Java {
     public static void main(String[] args) {
         int day = 3;
         switch(day){

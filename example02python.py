@@ -1,5 +1,9 @@
+from xml.etree.ElementTree import tostring
+
+
 number = int(input("input number: "))
 if number%2==0 : 
-    print(number + " is even number.")
+    oddOrEven = "even"
 else :
-    print(number + " is odd number.")
+    oddOrEven = "odd"
+print(number,"is",oddOrEven,"number.")

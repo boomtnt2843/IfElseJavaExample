@@ -1,4 +1,4 @@
-public class example05Java {
+public class Example05Java {
     public static void main(String[] args) {
         int a=16;
         if(a>10 && a%2==0){
