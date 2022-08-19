@@ -1,3 +1,4 @@
+package example;
 public class Example04Java {
     public static void main(String[] args) {
         int a=16;

@@ -1,3 +1,4 @@
+package example;
 public class Example09Java {
     public static void main(String[] args) {
         int day = 3;
